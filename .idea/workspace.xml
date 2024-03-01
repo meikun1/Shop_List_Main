@@ -26,7 +26,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d838a9a-45a0-4114-a3bf-d4e865d31562" name="Changes" comment="Registerfg" />
+    <list default="true" id="6d838a9a-45a0-4114-a3bf-d4e865d31562" name="Changes" comment="Login">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +96,7 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Registration" />
+        <entry key="$PROJECT_DIR$" value="Register" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -119,6 +121,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "com.google.services.firebase.aqiPopupShown": "true",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_directory_selection": "C:/Users/an4se/AndroidStudioProjects/shoplist/app/src/main/java",
     "last_opened_file_path": "C:/Users/an4se/Desktop/repoz",
@@ -308,7 +311,39 @@
       <option name="project" value="LOCAL" />
       <updated>1709306511570</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="First screen and splash screen">
+      <option name="closed" value="true" />
+      <created>1709307130953</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709307130953</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Recover">
+      <option name="closed" value="true" />
+      <created>1709307210999</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709307210999</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Register">
+      <option name="closed" value="true" />
+      <created>1709307237749</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1709307237749</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Login">
+      <option name="closed" value="true" />
+      <created>1709307250866</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1709307250866</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -322,7 +357,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Registration" />
+                        <option value="Register" />
                       </list>
                     </value>
                   </entry>
@@ -341,11 +376,13 @@
     <MESSAGE value="Registration page" />
     <MESSAGE value="Login page" />
     <MESSAGE value="Splash screen" />
-    <MESSAGE value="First screen and splash screen" />
     <MESSAGE value="Registration" />
     <MESSAGE value="Recovery" />
+    <MESSAGE value="First screen and splash screen" />
+    <MESSAGE value="Recover" />
     <MESSAGE value="Register" />
-    <option name="LAST_COMMIT_MESSAGE" value="Register" />
+    <MESSAGE value="Login" />
+    <option name="LAST_COMMIT_MESSAGE" value="Login" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
